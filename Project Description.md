@@ -1,4 +1,0 @@
-Within the world of electric instruments (particularly that of the electric guitar and bass), there are a wealth of ways to modify your instrument's sound. This is typically done via the use of foot-controlled effects pedals. One type of effect pedal, the "Phaser" pedal, shifts the phase of the output signal sent to a instrument amplifier. This creates a distinct sound that can be very desirable in certain applications.
-This type of effect pedal is what I have created a custom design for. My pedal will essentially resemble a MXR Phase 45 pedal in terms of architecture but will also have a togglable extra phase shifting network to shift the phase of the output by an extra amount. 
-
-![[Pasted image 20251025191522.png]]This documentation will serve as a guide to my design process. It is written in a step-by-step format in such a way that anyone, regardless of experience in this field, should be able to follow.
